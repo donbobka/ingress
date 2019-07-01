@@ -1,4 +1,5 @@
 require "spec_helper"
+require "securerandom"
 
 RSpec.describe Ingress do
   class TestUser
